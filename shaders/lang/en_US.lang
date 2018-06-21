@@ -1,0 +1,19 @@
+profile.comment=Low - low. Medium - medium. High - high.
+
+profile.LOW=Low
+profile.LOW.comment=Low quality
+profile.MED=Medium
+profile.MED.comment=Medium quality
+profile.HIGH=High
+profile.HIGH.comment=High quality, all features enabled
+
+option.TOON_SHADER=Outlines
+option.TOON_SHADER.comment=Disabling this may improve performance.
+value.TOON_SHADER.0=Off
+value.TOON_SHADER.1=On
+
+option.SHADOW_SAMPLES=Shadow Samples
+option.SHADOW_SAMPLES.comment=High values reduce performance exponentially.
+value.SHADOW_SAMPLES.1=1
+value.SHADOW_SAMPLES.2=9
+value.SHADOW_SAMPLES.3=25
